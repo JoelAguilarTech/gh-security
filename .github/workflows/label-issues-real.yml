@@ -1,4 +1,8 @@
 name: Label Issues (Permissions Example)
+
+permissions:
+  issues: write
+
 on:
   issues:
     types:
